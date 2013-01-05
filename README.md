@@ -1,4 +1,4 @@
-knowledgeroot_bbcode
-====================
+knowledgeroot bbcode
+=====================
 
-Knowledgeroot2 BBCode Parser Module
+Knowledgeroot2 BBCode Module
